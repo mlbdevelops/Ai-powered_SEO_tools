@@ -1,4 +1,4 @@
-# SeoForge
+# Ranksupp
 
 **Ai powered seo content optimizer.**
 
